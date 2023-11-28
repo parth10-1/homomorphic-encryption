@@ -24,7 +24,7 @@ class KeyGeneration():
 
     def _prime_number_generation(self):
         # Large prime number: 'P'
-        return number.getPrime(5)
+        return number.getPrime(14)
 
     def _random_primitive_element(self):
         # Generate and select a random primitive element
